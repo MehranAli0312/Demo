@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Appp/CallRecorder/Recorder/app/src/main/res/drawable/gradient_bg.xml" value="0.1962962962962963" />
+        <entry key="..\:/Appp/CallRecorder/Recorder/app/src/main/res/drawable/gradient_theme.xml" value="0.2203125" />
+        <entry key="..\:/Appp/CallRecorder/Recorder/app/src/main/res/drawable/ic_gradient.xml" value="0.2203125" />
+        <entry key="..\:/Appp/CallRecorder/Recorder/app/src/main/res/drawable/tab_bg.xml" value="0.2203125" />
+        <entry key="..\:/Appp/CallRecorder/Recorder/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Appp/CallRecorder/Recorder/app/src/main/res/layout/activity_splash.xml" value="0.19927536231884058" />
+        <entry key="..\:/Appp/CallRecorder/Recorder/app/src/main/res/layout/fragment_all_call_tab.xml" value="0.20416666666666666" />
+        <entry key="..\:/Appp/CallRecorder/Recorder/app/src/main/res/layout/fragment_favourit_tab.xml" value="0.20416666666666666" />
+        <entry key="..\:/Appp/CallRecorder/Recorder/app/src/main/res/layout/fragment_incoming_tab.xml" value="0.20416666666666666" />
+        <entry key="..\:/Appp/CallRecorder/Recorder/app/src/main/res/layout/fragment_outgoing_tab.xml" value="0.20416666666666666" />
+        <entry key="..\:/Appp/CallRecorder/Recorder/app/src/main/res/layout/toolbar.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>
